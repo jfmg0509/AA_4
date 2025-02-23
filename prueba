@@ -1,2 +1,2 @@
-input = "hola"
-print (input)
+i = "hola"
+print (i)
